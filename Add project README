@@ -37,7 +37,6 @@ The multi-asset extension demonstrated how the validated LSM framework can be ex
 - Python
 - NumPy
 - pandas
-- SciPy
 - Matplotlib
 - Jupyter Notebook
 
